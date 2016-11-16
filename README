@@ -1,0 +1,6 @@
+TO RUN:
+make 
+
+GOAL:
+Change code base (Filter.cpp, FilterMain.cpp) to lower CPE.
+Also keep in mind how the files are being compiled in the Makefile. 
